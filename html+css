@@ -1,0 +1,28 @@
+<html>
+<head>
+<br>
+</br>
+<style>
+
+h1{background-color:green;color:yellow}
+#head2{background-color:black;color:white}
+.head3{background-color:blue;color:white}
+*{color:red}
+h2,h3{background-color:purple;color:white}
+
+</style>
+</head>
+<body>
+
+<h1>welcome home baby(element selector)</h1><br>
+
+<h1 id="head2">Welcome to our world(ID selector)<h1>
+
+<h1 class="head3">Welcome to our home(class selector)</h1>
+Welcome to selectors(UNIVERSAL)
+
+<h2>Weclome kavviii</h2>
+<h3>KAVII MY KAVII</h3>
+
+</body>
+</html>
